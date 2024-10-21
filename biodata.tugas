@@ -1,17 +1,45 @@
-# Biodata
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Biodata</h1>
+        <p><strong>Nama:</strong> Leovan Gamalia Nauli Butar Butar</p>
+        <p><strong>Email:</strong> skayshadow633@gmail.com</p>
+        <p><strong>Tempat, Tanggal Lahir:</strong> Padang Sidempuan, 12 Agustus 2005</p>
+        <p><strong>Alamat:</strong> Perumahan Jetis Asri, Kemangkon, Purbalingga</p>
+        <p><strong>Telepon:</strong> 08995686541</p>
 
-**Nama:** Leovan Gamalia Nauli Butar Butar  
-**Email:** skayshadow633@gmail.com  
+        <h2>Riwayat Pendidikan</h2>
+        <ul>
+            <li>SMA NEGERI 1 PURBALINGGA (2020 - 2022)</li>
+            <li>SMP Negeri 07 (2017 - 2019)</li>
+        </ul>
 
-**Tempat, Tanggal Lahir:** Padang Sidempuan, 12 Agustus 2005  
-
-**Alamat:** Perumahan Jetis Asri, Kemangkon, Purbalingga  
-
-**Telepon:** 08995686541  
-
-## Riwayat Pendidikan
-- **SMA NEGERI 1 PURBALINGGA** (2020 - 2022)
-- **SMP Negeri 07** (2017 - 2019)
-
-## Pengalaman Kerja
-_(Belum ada pengalaman kerja yang dicantumkan)_
+        <h2>Pengalaman Kerja</h2>
+        <p>(Belum ada pengalaman kerja yang dicantumkan)</p>
+    </div>
+</body>
+</html>
